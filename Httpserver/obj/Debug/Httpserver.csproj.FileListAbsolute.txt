@@ -1,0 +1,16 @@
+D:\SL04 Ttest Project\Httpserver\Httpserver\bin\Debug\Httpserver.exe
+D:\SL04 Ttest Project\Httpserver\Httpserver\bin\Debug\Httpserver.pdb
+D:\SL04 Ttest Project\Httpserver\Httpserver\obj\Debug\ResolveAssemblyReference.cache
+D:\SL04 Ttest Project\Httpserver\Httpserver\obj\Debug\Httpserver.Properties.Resources.resources
+D:\SL04 Ttest Project\Httpserver\Httpserver\obj\Debug\Httpserver.csproj.GenerateResource.Cache
+D:\SL04 Ttest Project\Httpserver\Httpserver\obj\Debug\Httpserver.exe
+D:\SL04 Ttest Project\Httpserver\Httpserver\obj\Debug\Httpserver.pdb
+D:\Sample Code\Httpserver\Httpserver\obj\Debug\Httpserver.exe
+D:\Sample Code\Httpserver\Httpserver\obj\Debug\Httpserver.pdb
+D:\VC9 Projects\Httpserver\Httpserver\obj\Debug\Httpserver.exe
+D:\VC9 Projects\Httpserver\Httpserver\obj\Debug\Httpserver.pdb
+D:\VC9 Projects\Httpserver\Httpserver\bin\Debug\Httpserver.exe
+D:\VC9 Projects\Httpserver\Httpserver\bin\Debug\Httpserver.pdb
+D:\VC9 Projects\Httpserver\Httpserver\obj\Debug\ResolveAssemblyReference.cache
+D:\VC9 Projects\Httpserver\Httpserver\obj\Debug\Httpserver.Properties.Resources.resources
+D:\VC9 Projects\Httpserver\Httpserver\obj\Debug\Httpserver.csproj.GenerateResource.Cache
